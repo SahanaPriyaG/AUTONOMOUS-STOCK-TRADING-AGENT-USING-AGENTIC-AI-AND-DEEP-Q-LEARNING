@@ -35,9 +35,5 @@ This project implements a Deep Q-Learning (DQN)-based AI agent trained to make s
 
 ---
 
-## 🔧 Installation
 
-bash
-python train_agent.py
-python visualize_results.py
 
